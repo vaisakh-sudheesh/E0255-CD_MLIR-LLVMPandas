@@ -1,0 +1,1 @@
+c_custkey INTEGER ,c_name TEXT ,c_address TEXT ,c_nationkey INTEGER ,c_phone TEXT ,c_acctbal REAL ,c_mktsegment TEXT ,c_comment TEXT 
