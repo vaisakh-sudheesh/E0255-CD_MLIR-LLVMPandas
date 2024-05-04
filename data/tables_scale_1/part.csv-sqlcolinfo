@@ -1,0 +1,2 @@
+p_partkey  INTEGER  ,p_name TEXT ,p_mfgr TEXT ,p_brand TEXT ,p_type  TEXT ,p_size  INTEGER  ,p_container TEXT  ,p_retailprice REAL  ,p_comment TEXT 
+                  

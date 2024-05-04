@@ -1,0 +1,1 @@
+s_suppkey INTEGER ,s_name TEXT ,s_address TEXT ,s_nationkey INTEGER ,s_phone TEXT ,s_acctbal REAL ,s_comment TEXT 

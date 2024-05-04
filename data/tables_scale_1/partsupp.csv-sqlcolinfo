@@ -1,0 +1,2 @@
+ps_partkey INTEGER  ,ps_suppkey INTEGER  ,ps_availqty INTEGER  ,ps_supplycost REAL  ,ps_comment TEXT                                                                                                                                                                                        
+

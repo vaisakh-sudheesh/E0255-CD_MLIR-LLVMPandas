@@ -1,0 +1,1 @@
+r_regionkey INTEGER  ,r_name TEXT  ,r_comment TEXT 
